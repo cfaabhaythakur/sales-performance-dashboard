@@ -1,20 +1,19 @@
 # Sales Performance Dashboard
 Power BI dashboard analyzing sales, profits, and factory performance (2021–2024)
-# Sales Performance Dashboard 📊
 
 This Power BI dashboard analyzes sales, profits, and factory-wise performance from 2021 to 2024.
 
-### 🔍 Key Features:
-- 📈 Multi-page Power BI report
-- 💰 ₹7.25 Lakhs in total revenue analyzed
-- 🏭 5 factories and 15 products evaluated
-- 📊 KPIs for profit margin, sales growth, and product-wise performance
+Key Features:
+- Multi-page Power BI report
+- ₹7.25 Lakhs in total revenue analyzed
+- 5 factories and 15 products evaluated
+- KPIs for profit margin, sales growth, and product-wise performance
 
-### 🛠 Tools Used:
+Tools Used:
 - Power BI
 - Excel
 
-### 📂 Project Files:
+Project Files:
 - `sales-performance.pbix` – Main Power BI dashboard file
 - `data.xlsx` – Sample data used
 - `screenshots/` – Dashboard previews
