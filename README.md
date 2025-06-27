@@ -1,4 +1,4 @@
-# sales-performance-dashboard
+# Sales Performance Dashboard
 Power BI dashboard analyzing sales, profits, and factory performance (2021–2024)
 # Sales Performance Dashboard 📊
 
