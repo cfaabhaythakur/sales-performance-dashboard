@@ -20,10 +20,12 @@ Project Files:
 
 ---
 
-📌 **Note:** This project is for portfolio/demo purposes. Data shown is either fictional or anonymized.
+**Note:** This project is for portfolio/demo purposes. Data shown is either fictional or anonymized.
 
  **Feedback & Collaboration Welcome!**  
 Feel free to fork, suggest improvements, or raise issues.
+
+
 
 ## 📷 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/3cc3d725-32ad-4a3c-971c-0fd7730d3721)
